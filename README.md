@@ -1,16 +1,16 @@
-# to_do_app
+# ToDo App
 
-A new Flutter project.
+Basit ve kullanışlı bir Flutter tabanlı yapılacaklar listesi uygulaması.
 
-## Getting Started
+## Özellikler
+- Görev ekleme, silme ve işaretleme
+- Görevleri tamamlandı olarak işaretleme
+- Temiz ve kullanıcı dostu arayüz
 
-This project is a starting point for a Flutter application.
+## Ekran Görüntüleri
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="assets/1.png" alt="Ana Ekran" width="30%" />
+  <img src="assets/2.png" alt="Görev Ekleme" width="30%" />
+  <img src="assets/3.png" alt="Tamamlanan Görevler" width="30%" />
+</p>
