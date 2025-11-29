@@ -1,8 +1,10 @@
 # ToDo App
 
 Basit ve kullanışlı bir Flutter tabanlı yapılacaklar listesi uygulaması.
+...
 
 ## Özellikler
+
 - Görev ekleme, silme ve işaretleme
 - Görevleri tamamlandı olarak işaretleme
 - Temiz ve kullanıcı dostu arayüz
